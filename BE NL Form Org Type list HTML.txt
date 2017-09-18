@@ -1,0 +1,9 @@
+<option value="Conference and Incentive Agent">Conference and Incentive Agent</option>
+<option value="Corporate Travel Agent">Corporate Travel Agent</option>
+<option value="Incentive House">Incentive House</option>
+<option value="MICE Agent">MICE Agent</option>
+<option value="Meeting and Incentive House">Meeting and Incentive House</option>
+<option value="Professional Conference Organiser">Professional Conference Organiser</option>
+<option value="Retail Travel Agency">Retail Travel Agency</option>
+<option value="Wholesale Agent">Wholesale Agent</option>
+<option value="Other">Other</option>
